@@ -80,7 +80,7 @@ namespace ConsoleApplication4
                 tal = int.Parse(Console.ReadLine());
                 rakna++;
             }
-            Console.WriteLine("Grattis det tog " + rakna  +  " gissningar!");
+            Console.WriteLine("Grattis det tog  " + rakna  +  " gissningar!");
 
         }
     }
